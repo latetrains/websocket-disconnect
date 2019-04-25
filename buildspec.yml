@@ -4,4 +4,3 @@ phases:
   build:
     commands:
       - ./deploy.sh WebsocketDisconnect
-      - ./deploy.sh WebsocketConnection
